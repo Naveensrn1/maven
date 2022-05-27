@@ -1,0 +1,7 @@
+class
+{
+pulic slatic void main(String[]args)
+{
+System out print ln ("my name is Naveen");
+}
+}
